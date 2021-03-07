@@ -216,6 +216,8 @@ error_reporting(0);
                </div>
             </div>
          </div>
+                     
+      </div>
       
 	   <div class="coronata">
          <div class="container">
@@ -236,7 +238,16 @@ error_reporting(0);
             </div>
          </div>
       </div><br><br>
+      <!-- end about -->
+    
    
+        <!-- protect -->
+      
+           
+      
+              
+     
+            
      <div class="update">
    <div class="cevery_white">
       <div class="container">
@@ -289,13 +300,15 @@ error_reporting(0);
                               <p>This website is created to view the updates of covid 19 specifically for Madurai district</p>
                            </div>
                         </div>
-                   
+                     
+                
+                       
                         <div class="col-lg-3 col-md-6 col-sm-6">
                            <div class="hedingh3  text_align_left">
                               <h3>Contact  Us</h3>
                                 <ul class="top_infomation">
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i>
-                           Ms.Sowmiya<br>
+                           Ms.Sowmiya,Ms.Priyadharshini,Ms.Karpagalakshmi<br>
 							Thiagarajar College Of Engineering,Madurai.
                         </li>
                         <li><i class="fa fa-phone" aria-hidden="true"></i>
@@ -304,12 +317,31 @@ error_reporting(0);
                         <li><i class="fa fa-envelope" aria-hidden="true"></i>
                            <a href="Javascript:void(0)">Email : sowmi010201@gmail.com</a>
                         </li>
+                     </ul>
+                            
+                           
+                     </div>
+                  </div>
                    
+                    
+               </div>
+            </div>
+            <div class="copyright">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-8 offset-md-2">
+                        <p>© 2020 All Rights Reserved.  </a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
       </footer>
       <!-- end footer -->
       <!-- Javascript files-->
       <script src="js/jquery.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
       <script src="js/owl.carousel.min.js"></script>
       <script src="js/custom.js"></script>
    </body>
